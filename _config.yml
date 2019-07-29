@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-baseurl: "/student_site" #change this to empty ('')
-url: "https://yoursite.github.io"
-title: My Famous Blog # site's title
-description: "A website with blog posts and pages" # used by search engines
+baseurl: #change this to empty ('')
+url: "https://ZoeJennings.github.io"
+title: Ovid Online # site's title
+description: "A website to discover Ovid" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
@@ -12,7 +12,7 @@ favicon: assets/favicon.ico
 
 # Header and footer text
 # Change this text to yourown
-header_text: This is my famous blog
+header_text: Ovid Online
 
 # find an iamge for your own home page
 header_feature_image: images/hhh.jpg
