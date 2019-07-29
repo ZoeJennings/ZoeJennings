@@ -2,7 +2,7 @@
 layout: post
 title: Ovid and Performance
 date: 2019-07-29 11:21
-published: false
+published: true
 image: ""
 caption: ""
 ---
