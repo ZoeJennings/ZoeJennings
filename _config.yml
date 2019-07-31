@@ -16,7 +16,7 @@ header_text: Ovid Online
 
 # find an iamge for your own home page
 header_feature_image: images/Ovid_Nuremberg_chronicle.jpg
-footer_text: &copy; 2019 Zoë Jennings
+footer_text: '&copy; 2019 Zoë Jennings'
   # Icons
 rss: false  # Make sure you created a feed.xml with feed.xml layout
 email_address: # Full email address, e.g. "sam@example.com"
